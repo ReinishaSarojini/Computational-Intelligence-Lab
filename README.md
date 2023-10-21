@@ -17,11 +17,11 @@ This file contains code for Breadth First Search (BFS) and Depth First Search (D
 2. Visualize graph model using adjacency list and adjacency matrix. 
 3. Can add and delete the nodes as well as the edges.
 
-##2.AStarSearch.py
-###Description
+2.AStarSearch.py
+Description
 This file contains the implementation of A* search which is a popular example of informed search
 
-###Functionalities
+Functionalities
 1.Can create a graph model
 2.Read straight line distance input from file.
 3.Can add and delete the nodes as well as the edges.
